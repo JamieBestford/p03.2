@@ -26,3 +26,18 @@ def run_tests():
 # Edit this code
 def doubler(word):
 
+    new_word = ""
+
+    for chara in word:
+
+        new_word = new_word + chara * 2
+
+    print(new_word)
+
+
+
+#~~~~~~~~~#
+#Completed#
+#~~~~~~~~~#
+        
+
